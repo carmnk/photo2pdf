@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "photo2pdf": {
+      "signature": "ca5201a97e0e3b512be5a8cf284e6bdf",
+      "file": true,
+      "replaced": "link:.yalc/photo2pdf"
+    }
+  }
+}
